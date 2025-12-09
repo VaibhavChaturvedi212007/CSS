@@ -1,10 +1,10 @@
-body{
+/* body{
     background-color:black;
 }
 h1{
     color:white;
 }
-/* #p1{
+ #p1{
     color:red;
 }
 #p2{
@@ -12,10 +12,88 @@ h1{
 }
 #p3{
     color:purple;
-} */
+} 
 .odd{
     color:red;
 }
 .even{
     color:orange;
+} */
+
+/* h1{
+    /* border-style: solid;
+    border-width:3px;
+    border-color:blueviolet; */
+    /* border: 3px solid rgb(118, 10, 206);
+    border-radius:15px;
 }
+p{
+    border-bottom:3px solid red;
+    border-top:3px solid yellow;
+    border-left:3px dotted blueviolet;
+    border-right:3px dotted rgb(78, 78, 234);
+
+    border-radius:10px;
+}  */
+
+/* h1{
+    text-shadow:3px 3px 5px hsl(0,100%,61%),-3px -3px 5px hsl(197,100%,61%); ;
+}
+#box1{
+    width:100px;
+    height:100px;
+    background-color:rgb(234, 234, 244);
+    box-shadow: 3px 3px 5px;
+} */
+
+/* body{
+    margin:0px;
+}
+.box{
+    border:5px solid;
+    font-size:5em;
+    width:250px;
+    height:250px;
+}
+#box1{
+    background-color: blue;
+    margin-top:50px;
+    margin-bottom: 50px;
+    margin-left:50px;
+    margin-right:50px; 
+    margin:50px;
+}
+#box2{
+    background-color: blueviolet;
+} */
+/* body{
+    border:3px solid;
+}
+#img1{
+    float:left;
+    margin-right:20px;
+}
+#img2{
+    float:right;
+    margin-bottom:10px;
+} */
+/* h1{
+    text-shadow:3px 3px 5px hsl(0, 0%, 5%),-3px -3px 5px hsl(197,100%,61%); 
+    
+}
+#box1{
+    width:100px;
+    height:100px;
+    background-color:rgb(234, 234, 244);
+    box-shadow: 3px 3px 5px;
+} */
+ /* div{
+    border:2px solid;
+    height:50px; */
+    /* overflow:hidden; */
+    /* overflow:visible; */
+    /* overflow: clip;
+    overflow-clip-margin :10f px; */
+    /* overflow:scroll; */
+    /* overflow:auto; */
+ /* } */
